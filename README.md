@@ -2,3 +2,4 @@
 
 Описание проекта:
 «Оно тебе надо» — аукцион вещей, в которые никто не верил.
+https://github.com/Naley-chaiku/ono-tebe-nado-ad
